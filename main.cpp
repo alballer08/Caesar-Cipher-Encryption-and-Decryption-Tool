@@ -1,7 +1,7 @@
 //Name: Albert Zhang
-//Date: 4 June 2024
+//Date: 10 June 2024
 //Program: Console Based Caesar Cipher Tool
-//Extra: Encrypt and decrypts numbers as well as characters.  Normal caesar ciphers do not encrypt and decrypt numbers but only characters
+//Extra: Encrypt and decrypts numbers as well as characters.  Normal caesar ciphers do not encrypt and decrypt numbers but only characters.
 
 //connecting main to header
 #include <iostream>
