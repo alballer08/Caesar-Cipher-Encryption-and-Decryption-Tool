@@ -36,6 +36,7 @@ std::string CaesarCipher::shift(const std::string &text, int key) const {
       c = ('A' - 'A' + 3) % 26 = 3 % 26 = 3
       c += 'A' (adding 'A' back to get the shifted letter)
       c = 'D'*/
+      //generated using chatgpt ai
       char base = isupper(c) ? 'A' : 'a';
       // Shifting character
       c = (c - base + letterShiftKey) % 26;
